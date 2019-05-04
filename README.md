@@ -2,7 +2,7 @@
 With the lite version, you can create only 5 cards. 
 If you want more you need to buy the full version on AppStore.
 
-To use the two version : 
+To use the two versions : 
 ID : client
 Password : aaaa 
 
