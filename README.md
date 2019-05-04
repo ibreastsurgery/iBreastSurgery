@@ -1,9 +1,11 @@
 # iBreastSurgery
-With the lite version, you can create only 5 cards. If you want more you need to buy the full version on AppStore.
+With the lite version, you can create only 5 cards. 
 
 To use the lite version : 
 ID : client
 Password : aaaa 
+
+If you want more you need to buy the full version on AppStore.
 
 To use the full version : 
 ID : client
